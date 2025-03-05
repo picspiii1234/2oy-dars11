@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-image: url(https://oyina.uz/storage/funnies/October2023/6BbQJXUwHDIylfyU9tKX.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.box{
+    width: 500px;
+    height: 400px;
+
+    background-image: url(https://daryo.uz/static/2018/01/masters-of-landscape-photography.jpg);
+    background-attachment: fixed;
+} */
+ /* body{
+    background-image: url(https://s3-alpha-sig.figma.com/img/3604/95af/95653db7f8a53728847c359a979bb20b?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=MbZinytBR3NLQ0qpCLgiRgSr2YtZ7fmlJo6fchXUGTEsKrG1cYOXqVukA2JtllJa9F6I~VUNjvj3zE9q7eB9DOMyBcy-zurQOilRXTRyuGaR4yZlec-uStzUpL616gqNg3CWQm64KOqW9-KgB8ZdVdZJVN5h2MHM1QgWkilyaMAIJrE4PSPiwkWz0DttouUL~GexKA7MYOtZb0p06ZfLsh28GdltED-POMmVdyIK0EkyUW1oqYWZoOExQ8PtHlkHRXpJuMt1fSNcbu4fkfOedJnb~EATh12ayv0wvyTRx0ZQdwKWqqn6Xl~SyDR5qomfEeiTU9MqRlxyT-vf8Sqltg__);
+    background-size: cover;
+ }
+ .container{
+    width: 80%;
+    height: 70px;
+    border: 5px solid red;
+    margin-left: 10%;
+    margin-top: 3%;
+ } */
+
+
+.container{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 100px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+nav button{
+    background-color: orange;
+    width: 120px;
+    height: 60px    ;
+} 
+.container1{
+    background-color: rgb(62, 21, 21);
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 300px;
+}
+#hero a{
+    color: white;
+    text-decoration: none;
+}
+.img1{
+    background-image: url(https://s3-alpha-sig.figma.com/img/026b/441a/88dfc0194633755f033f7f553dfded55?Expires=1742169600&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Mg~Ee-tcVHezTOFzCRX35I73IdHayB-zW9tFHmdNSrVLTEmvLFRebEgvR-41RU80MYpEpi-QQntiAUiOlsRQ22Cd0IOUnUAVOeeYtm4kv-H7rp9DbYmqX4BugJGoHxVCfu8WKQvIPbpMG76uYHznHN44J2y7iLKWsvGOI4sXGfWmhCBS-RMHnsOyyQRfpbTGJJl18G~iXFyeIhh2frSLHRAZTCPp~1lg7ytf9Plj5mxNpm0mWijKnK~7ZorfwA~Fo0grlvOamg0cDGS1Sfq0uJaUVnjzjtQ1XqDYjf1L9PUpsLbYIOXzfQH~B3ISHLexvn~6cVcp8YYXbLY~1pBVRA__ );   
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    width: 150px;
+    height: 70px;
+    background-color: #F1A900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+
+}
+.box2{
+    width: 150px;
+    height: 70px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box3{
+    width: 500px;
+    height: 70px;
+    background-color:#F1A90054;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
